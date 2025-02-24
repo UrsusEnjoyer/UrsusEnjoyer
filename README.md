@@ -12,7 +12,7 @@
   - Gym 💪
   - Self-Improvement 📈
 
-- ⚡ Fun Fact:
+- ⚡ Fact:
   - Ronaldo is THE GOAT! 🐐
 
 ## Contact:
