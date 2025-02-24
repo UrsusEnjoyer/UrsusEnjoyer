@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @UrsusEnjoyer
-- 👀 I’m interested in coding, maths, gym and self immprovement 
-- 🌱 I’m currently learning frontend development, c++, python and databases (MS Access, SQL)
-- 📫 How to reach me:
-- 🔎 Discord: UrsusEnjoyer,
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Ronaldo is THE GOAT
+# 👋 Hi, I'm @UrsusEnjoyer
 
+## About Me:
+- 🌱 Currently learning:
+  - Frontend Development
+  - C++, Python
+  - Databases (MS Access, SQL)
+
+- 👀 Interests:
+  - Coding 💻
+  - Mathematics 📊
+  - Gym 💪
+  - Self-Improvement 📈
+
+- ⚡ Fun Fact:
+  - Ronaldo is THE GOAT! 🐐
+
+## Contact:
+- 🔎 Discord: `UrsusEnjoyer`
+- 📫 Email: `labuz.franciszek291@gmail.com`
+
+## Pronouns:
+- He/Him
