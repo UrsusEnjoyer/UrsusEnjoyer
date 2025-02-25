@@ -13,6 +13,12 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 - 🔥 Mastering C++
 - 🐍 Python
 
+## 💡 I'm Interested In:
+- 📊 Maths
+- 🏋️ Gym
+- 🥊 Boxing
+- 🏀 Basketball
+
 ## 📍 Where to find me:
 - 💬 Discord: **UrsusEnjoyer**
 - 📧 Email: **labuz.franciszek291@gmail.com**
