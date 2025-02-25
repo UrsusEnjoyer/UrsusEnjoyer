@@ -7,14 +7,11 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 ## 🔥 What I'm working on:
 - 🌍 Improving my frontend development skills.
 - 🖥️ Enhancing my proficiency in C++ and Python.
-- 📈 Exploring new ways to optimize productivity and efficiency.
+- 🏋️ Getting into the best shape of my life.
 
 ## 🎯 Want to Learn:
-- ☕ Advanced JavaScript frameworks
-- 🏗️ Backend development concepts
-
-## 💡 Collaboration:
-- 🔗 Open to working on frontend projects, open-source contributions, and self-improvement initiatives.
+- 🔥 Mastering C++
+- 🐍 Python
 
 ## 📍 Where to find me:
 - 💬 Discord: **UrsusEnjoyer**
