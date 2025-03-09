@@ -25,7 +25,12 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 - 📧 Email: **labuz.franciszek291@gmail.com**
 
 ## 🛠️ Skills:
-![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![C++](https://img.shields.io/badge/-C++-blue) ![SQL](https://img.shields.io/badge/-SQL-gray)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
+![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
+![VBA](https://img.shields.io/badge/-VBA-purple?style=flat-square&logo=microsoft-office)
 ### 🖥️ Apps I use:
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
