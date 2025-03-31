@@ -25,7 +25,6 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 - 📧 Email: **labuz.franciszek291@gmail.com**
 ## 🖥️ Check my pinned projects!
 - Page about gym and self-imporovement: 
-
 https://github.com/UrsusEnjoyer/Silownia
 ## 🛠️ Skills:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
