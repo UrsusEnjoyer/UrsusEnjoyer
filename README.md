@@ -37,4 +37,7 @@ https://github.com/UrsusEnjoyer/Silownia
 [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/pl-pl/microsoft-365/access)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![Dev-C++](https://img.shields.io/badge/Dev--C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+## 📊 GitHub Stats:
+![GitHub Stats](#)  
+**Most Used Languages:**
+![Most Used Languages](#)
