@@ -38,6 +38,4 @@ https://github.com/UrsusEnjoyer/Silownia
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![Dev-C++](https://img.shields.io/badge/Dev--C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## 📊 GitHub Stats:
-![GitHub Stats](#)  
-**Most Used Languages:**
-![Most Used Languages](#)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReimaginedPixel&show_icons=true&theme=tokyonight) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReimaginedPixel&layout=compact&theme=tokyonight)
