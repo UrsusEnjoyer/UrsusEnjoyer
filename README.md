@@ -26,6 +26,8 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 ## 🖥️ Check my pinned projects!
 - Page about gym and self-imporovement: 
 https://github.com/UrsusEnjoyer/Silownia
+- Console-application about RPG fight:
+https://github.com/UrsusEnjoyer/Game-cpp
 ## 🛠️ Skills:
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
