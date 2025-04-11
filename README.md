@@ -19,7 +19,7 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 - 📊 Maths
 - 🏋️ Gym
 - 🥊 Boxing
-- 🏀 Basketball
+- 🏐 Volleyball
 
 ## 📍 Where to find me:
 - 💬 Discord: **ursusenjoyer**
