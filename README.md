@@ -34,7 +34,7 @@ https://github.com/UrsusEnjoyer/Game-cpp
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
-![VBA](https://img.shields.io/badge/-VBA-purple?style=flat-square&logo=microsoft-office)
+![VBA](https://img.shields.io/badge/-VBA-d83b01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ## 🖥️ Apps I use:
