@@ -12,6 +12,7 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 ## 🎯 Want to Learn:
 - 🔥 Mastering C++
 - 🐍 Python
+- 💻 Developing a better website
 
 
 ## 💡 I'm Interested In:
