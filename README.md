@@ -38,6 +38,7 @@ https://github.com/UrsusEnjoyer/Bookstore-Database
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
 ![VBA](https://img.shields.io/badge/-VBA-d83b01?style=flat-square&logo=microsoft-office&logoColor=white)
+https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ## 🖥️ Apps I use:
