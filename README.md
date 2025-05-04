@@ -36,10 +36,10 @@ https://github.com/UrsusEnjoyer/Bookstore-Database
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
-![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
-![VBA](https://img.shields.io/badge/-VBA-d83b01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Want to learn/improve:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
 
 ## 🖥️ Apps I use:
 [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/pl-pl/microsoft-365/access)
