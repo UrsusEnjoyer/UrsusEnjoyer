@@ -22,7 +22,7 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 - 🏐 Volleyball
 
 ## 📍 Where to find me:
-- 💬 Discord: **'_xtylerdurdenx_'**
+- 💬 Discord: **__xtylerdurdenx__**
 - 📧 Email: **labuz.franciszek291@gmail.com**
 ## 🖥️ Check my pinned projects!
 - Page about gym and self-imporovement: 
