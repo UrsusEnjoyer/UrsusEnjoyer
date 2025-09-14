@@ -19,7 +19,7 @@ I'm passionate about self-improvement, frontend development, and programming. I 
 - 📊 Maths
 - 🏋️ Gym
 - 🥊 Boxing
-- 🏐 Volleyball
+- 👨‍🏭 Welding
 
 ## 📍 Where to find me:
 - 💬 Discord: **_ _xtylerdurdenx_ _**
