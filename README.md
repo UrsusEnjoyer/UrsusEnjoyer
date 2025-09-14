@@ -42,10 +42,11 @@ https://github.com/UrsusEnjoyer/Bookstore-Database
 ![SQL](https://img.shields.io/badge/-SQL-lightgray?style=flat-square&logo=mysql)
 
 ## 🖥️ Apps I use:
-[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://www.microsoft.com/pl-pl/microsoft-365/access)
+
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![Dev-C++](https://img.shields.io/badge/Dev--C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 ##  📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UrsusEnjoyer&show_icons=true&theme=tokyonight) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UrsusEnjoyer&layout=compact&theme=tokyonight)
 
