@@ -35,7 +35,7 @@ https://github.com/UrsusEnjoyer/Bookstore-Database
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white))
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus)
 ## Want to learn/improve:
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
